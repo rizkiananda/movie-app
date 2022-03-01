@@ -1,0 +1,15 @@
+{
+    "env": "production",
+    "model":{
+      "Database1": {
+        "username": "",
+        "password": "",
+        "database": "movie_app",
+        "host": "127.0.0.1",
+        "dialect": "mysql",
+        "logging": false
+      }
+    },
+    "api_port": "5500"
+  }
+    

@@ -1,0 +1,25 @@
+{
+  "model":{
+    "Database1": {
+      "username": "ravelware",
+      "password": "R4v3lw4r3",
+      "database": "template_backend",
+      "host": "127.0.0.1",
+      "dialect": "mysql",
+      "logging": false
+    },
+    "Database2": {
+      "username": "ravelware",
+      "password": "R4v3lw4r3",
+      "database": "landing_page",
+      "host": "127.0.0.1",
+      "dialect": "mysql",
+      "logging": false
+    }
+  },
+  "hardware_api_port": "9175",
+  "websocket_port": "6001",
+  "mqtt_host": "192.168.1.250",
+  "mqtt_port": "1883"
+}
+  
