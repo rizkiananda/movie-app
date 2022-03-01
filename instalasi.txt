@@ -1,0 +1,7 @@
+Urutan instalasi
+
+1. download library
+- npm install
+
+2. running app
+- node index.js
